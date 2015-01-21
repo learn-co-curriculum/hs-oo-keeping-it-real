@@ -4,7 +4,7 @@ type: keeping-it-real
 ---
 
 ### Keepin' It Real
-:<img src="https://after-school-assets.s3.amazonaws.com/never-give-up.jpg" width="400px">:
+<img src="https://after-school-assets.s3.amazonaws.com/never-give-up.jpg" width="400px">
 
 First thing to remember: This stuff is hard. Don't think it's all going to come to you automatically. And those people around you who seem to have accomplished so much, or can do things so easily - they don't get things faster - they just have more experience.
 
