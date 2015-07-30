@@ -1,7 +1,4 @@
----
-tags: kids
-type: keeping-it-real
----
+
 
 ### Keepin' It Real
 <img src="https://after-school-assets.s3.amazonaws.com/never-give-up.jpg" width="400px">
