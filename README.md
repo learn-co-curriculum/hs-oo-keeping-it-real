@@ -12,3 +12,5 @@ So keep persevering. Trust that the more you read and practice and bang your hea
 + [Three Ways Great Leaders Handle Adversity](http://www.forbes.com/sites/mikemaddock/2013/11/26/three-ways-great-leaders-handle-great-adversity/)
 
 + Go read a book.
+
+<a href='https://learn.co/lessons/hs-oo-keeping-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
