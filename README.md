@@ -13,4 +13,4 @@ So keep persevering. Trust that the more you read and practice and bang your hea
 
 + Go read a book.
 
-<a href='https://learn.co/lessons/hs-oo-keeping-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-keeping-it-real' title='Keepin' It Real'>Keepin' It Real</a> on Learn.co and start learning to code for free.</p>
